@@ -96,17 +96,17 @@
 
 3. **Create the virtual environment:**
    ```powershell
-      python3.12 -m venv pythonclass-py-3.12
+      python -m venv pythonclass-py-3.14.0
    ```
 4. **Activate the virtual environment:**
 
 - Command Prompt
    ```powershell
-   pythonclass-py-3.12\Scripts\activate.bat
+   pythonclass-py-3.14.0\Scripts\activate.bat
    ```
 - For PowerShell:
    ```powershell
-   .\pythonclass-py-3.12\Scripts\Activate.ps1
+   .\pythonclass-py-3.14.0\Scripts\Activate.ps1
    ```
 
 5. **Verify Python version inside the virtual environment:**
